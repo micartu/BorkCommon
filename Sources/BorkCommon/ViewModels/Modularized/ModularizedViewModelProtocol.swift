@@ -8,4 +8,5 @@
 import Foundation
 
 public protocol ModularizedViewModelProtocol {
+    func say(message: String)
 }
